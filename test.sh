@@ -61,7 +61,8 @@ else
    docker ps -a
 fi
 
-# 
+# if port is not running after the is built maybe the problem is in CMD line please check
+
 
 
 
